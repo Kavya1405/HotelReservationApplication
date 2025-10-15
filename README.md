@@ -1,7 +1,7 @@
-# Hotel Reservation System
+# Hotel Reservation Application
 
 ## 📌 Overview
-This is a **Hotel Reservation System** project built using Java.  
+This is a **Hotel Reservation Application** project built using Java.  
 It allows admins to manage rooms, customers, and reservations efficiently.
 
 ## 🧩 Features
